@@ -1,8 +1,0 @@
-com/astronomvm/agent/exception/TriggerInitException.class
-com/astronomvm/agent/triggers/rest/RestTriggerInterceptor.class
-com/astronomvm/agent/triggers/TriggerInterceptor.class
-com/astronomvm/agent/triggers/TriggersManager.class
-com/astronomvm/agent/service/AgentLauncherService.class
-com/astronomvm/agent/AgentApplication.class
-com/astronomvm/agent/exception/UnknowTriggerException.class
-com/astronomvm/agent/service/MetaFlowExecutorService.class
